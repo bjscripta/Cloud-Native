@@ -1,0 +1,13 @@
+package com.pedidos360.pedidosdomain.envios;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EnviosServiceApplicationTests {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EnviosServiceApplication.class, args);
+	}
+
+}
